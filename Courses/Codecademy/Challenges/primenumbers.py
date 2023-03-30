@@ -10,5 +10,3 @@ def prime_number(n):
     return collector
 
 print(prime_number(11))
-
-
