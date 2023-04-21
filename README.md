@@ -1,2 +1,2 @@
-# Python Playground
+# Python Learning Playground
 A repository dedicated to my Python coding adventures, where I explore and experiment with different Python projects and concepts. This folder serves as a sandbox for my Python learning, allowing me to tinker with Python code, try out new ideas, and learn Python programming techniques. From small scripts to more complex projects, this GitHub folder is my playground for honing my Python skills, fostering creativity, and deepening my understanding of Python programming.
