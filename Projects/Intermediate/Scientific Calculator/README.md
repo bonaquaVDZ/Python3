@@ -10,8 +10,7 @@ Table of Contents
 	•	Usage
 	•	Button Functions
 	•	Screenshots
-	•	Customization
-	•	License
+
 
 Features
 
@@ -128,22 +127,3 @@ Screenshots
 
 <img width="224" alt="image" src="https://github.com/user-attachments/assets/21c3d49d-0d8d-4b28-a1a8-05220d70cfb5">
 
-Customization
-
-You can customize the calculator to suit your preferences:
-
-	•	Adding Functions:
-	•	Modify the functions dictionary in the script to include additional mathematical functions from the math module or custom functions.
-	•	Add corresponding buttons in the button_texts list within the script.
-	•	Changing Themes:
-	•	Adjust the color scheme by modifying the bg (background) and fg (foreground/text) parameters for the window, display, and buttons.
-	•	Example: Change master.configure(bg="#f0f0f0") to a different color code.
-	•	Adjusting Font Sizes:
-	•	Modify font=("Helvetica", size) in the display and button configurations to increase or decrease text size.
-	•	Resizing the Window:
-	•	Remove or adjust master.resizable(False, False) to allow window resizing.
-
-License
-
-This project is open-source. 
-Enjoy using the Scientific Calculator! If you have any questions or need further assistance, feel free to reach out.
