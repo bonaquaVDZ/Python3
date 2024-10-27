@@ -126,7 +126,7 @@ Control Buttons
 
 Screenshots
 
-(As this is a text-based README, please visualize the calculator interface with the descriptions provided.)
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/21c3d49d-0d8d-4b28-a1a8-05220d70cfb5">
 
 Customization
 
